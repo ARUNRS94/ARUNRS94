@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ARUNRS94
 - 👀 I’m interested in automation
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m a Python Developer
+- 💞️ I’m looking to collaborate on Python Automation
 - 📫 How to reach me arunrameshsusi@gmail.com
 
 <!---
